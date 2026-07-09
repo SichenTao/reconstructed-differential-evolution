@@ -1,5 +1,11 @@
 # RDE for IEEE WCCI / CEC 2024
 
+<p align="center">
+  <strong>English</strong> |
+  <a href="README.zh-CN.md">中文</a> |
+  <a href="README.ja.md">日本語</a>
+</p>
+
 This repository is retained as the original public entry for the 2024 Reconstructed Differential Evolution project.
 
 The maintained competition release has moved to:
