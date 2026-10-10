@@ -1,0 +1,111 @@
+cff-version: 1.2.0
+message: "If you use one of the RDE series solvers, please cite the repository of that solver and its paper (see references below)."
+title: "Reconstructed Differential Evolution (RDE) series: overview"
+type: software
+authors:
+  - family-names: Tao
+    given-names: Sichen
+license: MIT
+repository-code: "https://github.com/SichenTao/reconstructed-differential-evolution"
+url: "https://github.com/SichenTao/reconstructed-differential-evolution"
+abstract: >-
+  Overview of the Reconstructed Differential Evolution series: RDE (IEEE WCCI/CEC 2024,
+  Runner-Up Award), RDEx (IEEE CEC 2025, rank 1 in all four tracks) and RDE26 (IEEE
+  WCCI/CEC 2026, rank 1 in all four tracks), with links to the repositories and papers.
+keywords:
+  - differential evolution
+  - numerical optimization
+  - evolutionary algorithm
+  - IEEE CEC
+references:
+  - type: article
+    title: "An Efficient Reconstructed Differential Evolution Variant by Some of the Current State-of-the-art Strategies for Solving Single Objective Bound Constrained Problems"
+    authors:
+      - family-names: Tao
+        given-names: Sichen
+      - family-names: Zhao
+        given-names: Ruihan
+      - family-names: Wang
+        given-names: Kaiyu
+      - family-names: Gao
+        given-names: Shangce
+    journal: "arXiv preprint arXiv:2404.16280"
+    year: 2024
+    doi: "10.48550/arXiv.2404.16280"
+    url: "https://arxiv.org/abs/2404.16280"
+  - type: article
+    title: "RDEx-SOP: Exploitation-Biased Reconstructed Differential Evolution for Fixed-Budget Bound-Constrained Single-Objective Optimization"
+    authors:
+      - family-names: Tao
+        given-names: Sichen
+      - family-names: Yang
+        given-names: Yifei
+      - family-names: Zhao
+        given-names: Ruihan
+      - family-names: Wang
+        given-names: Kaiyu
+      - family-names: Liu
+        given-names: Sicheng
+      - family-names: Gao
+        given-names: Shangce
+    journal: "arXiv preprint arXiv:2603.27089"
+    year: 2026
+    doi: "10.48550/arXiv.2603.27089"
+    url: "https://arxiv.org/abs/2603.27089"
+  - type: article
+    title: "RDEx-CSOP: Feasibility-Aware Reconstructed Differential Evolution with Adaptive epsilon-Constraint Ranking"
+    authors:
+      - family-names: Tao
+        given-names: Sichen
+      - family-names: Yang
+        given-names: Yifei
+      - family-names: Zhao
+        given-names: Ruihan
+      - family-names: Wang
+        given-names: Kaiyu
+      - family-names: Liu
+        given-names: Sicheng
+      - family-names: Gao
+        given-names: Shangce
+    journal: "arXiv preprint arXiv:2603.27090"
+    year: 2026
+    doi: "10.48550/arXiv.2603.27090"
+    url: "https://arxiv.org/abs/2603.27090"
+  - type: article
+    title: "RDEx-MOP: Indicator-Guided Reconstructed Differential Evolution for Fixed-Budget Multiobjective Optimization"
+    authors:
+      - family-names: Tao
+        given-names: Sichen
+      - family-names: Yang
+        given-names: Yifei
+      - family-names: Zhao
+        given-names: Ruihan
+      - family-names: Wang
+        given-names: Kaiyu
+      - family-names: Liu
+        given-names: Sicheng
+      - family-names: Gao
+        given-names: Shangce
+    journal: "arXiv preprint arXiv:2603.27092"
+    year: 2026
+    doi: "10.48550/arXiv.2603.27092"
+    url: "https://arxiv.org/abs/2603.27092"
+  - type: article
+    title: "RDEx-CMOP: Feasibility-Aware Indicator-Guided Differential Evolution for Fixed-Budget Constrained Multiobjective Optimization"
+    authors:
+      - family-names: Tao
+        given-names: Sichen
+      - family-names: Yang
+        given-names: Yifei
+      - family-names: Zhao
+        given-names: Ruihan
+      - family-names: Wang
+        given-names: Kaiyu
+      - family-names: Liu
+        given-names: Sicheng
+      - family-names: Gao
+        given-names: Shangce
+    journal: "arXiv preprint arXiv:2604.03708"
+    year: 2026
+    doi: "10.48550/arXiv.2604.03708"
+    url: "https://arxiv.org/abs/2604.03708"
